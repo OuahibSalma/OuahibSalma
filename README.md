@@ -1,6 +1,292 @@
 ## Hi there 👋
 # 💫 About Me: 
-🔭 I'm currently working on:<br>- Engineering degree in Business Intelligence & Analytics<br>- AI/Data Analysis internship at AIBOOST<br>- My personal portfolio, which I will be publishing soon<br>- Actively seeking a 6-month internship opportunity.<br><br>👥 I'm looking to collaborate on:<br>- Business Intelligence projects<br>- Data visualization solutions<br>- Reporting dashboards<br>- Web scraping projects<br><br>🌱 I'm currently learning:<br>- Advanced data analysis techniques<br>- Machine learning<br>- ETL processes<br>- Data visualization tools<br><br>💬 Ask me about:<br>- Python/Pandas<br>- Web scraping<br>- Power BI<br>- Data visualization<br>- SQL<br>- Business Intelligence<br><br>⚡ Fun facts:<br>- I fell in love with web scraping because it automates tedious tasks (I'm efficiently lazy!)<br>- I'm a "work smarter, not harder" kind of person<br>- I can spend hours optimizing a script to save 5 minutes of manual work<br>- I get excited about clean, well-structured data more than I probably should<br>
+🎓 I'm a third-year engineering student at ENSIAS, specializing in **Data Science and Business Intelligence**.
+I focus on designing data-driven solutions that transform raw data into actionable insights, combining **data engineering, analytics, and AI**.
+
+I have hands-on experience building end-to-end projects, including **data pipelines, machine learning models, BI dashboards, and web scraping systems**, using tools like Python, SQL Server, Power BI, and modern AI frameworks.
+
+I am particularly interested in:
+- Business Intelligence & Data Visualization  
+- Machine Learning & AI applications  
+- Process automation through scripting  
+
+📊 My approach: I don’t just analyze data — I build **complete, scalable systems around it**.
+
+📫 I am currently seeking a **full-time position in Data Science/Analytics**, where I can apply my skills to real-world challenges and continue growing as a data professional.
+# 💼 Professional Experience (Data Science Focus)
+
+## 🏢 Data Sustainability & BI Intern — KShuttle Maroc
+
+📍 Casablanca, Morocco | 📅 Feb 2026 – Present
+
+🔍 Working on data-driven solutions for **sustainability analytics and regulatory reporting** in industrial environments.
+
+### Key Contributions:
+
+* Built **data pipelines (ETL)** to collect, preprocess, and structure environmental and operational datasets
+* Designed **analytical data models** to support sustainability KPIs and reporting
+* Developed **KPI monitoring systems** to track performance indicators (environmental impact, operations)
+* Applied **statistical analysis and data exploration** to identify trends and anomalies in sustainability data
+* Collaborated with stakeholders to translate business requirements into **data-driven solutions**
+
+### Tools & Technologies:
+
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly
+
+💡 **Impact:** Improved data quality and enabled data-driven monitoring of sustainability performance and compliance.
+
+---
+
+## 🏢 Data Analyst & BI Consultant — Leyton CognitX
+
+📍 Casablanca, Morocco | 📅 Jun 2025 – Aug 2025
+
+🔍 Focused on transforming business data into **actionable insights and predictive indicators**.
+
+### Key Contributions:
+
+* Developed a **Sales Performance Dashboard** (Power BI) to track KPIs and support strategic decisions
+* Performed **advanced SQL analysis** to uncover patterns and business insights
+* Built a **data monitoring system** to ensure consistency and reliability of analytical datasets
+* Conducted **data validation and anomaly detection** to improve data quality
+* Contributed to **data modeling and performance optimization**
+
+### Tools & Technologies:
+
+SQL Server, SSIS, SSAS, Power BI
+
+💡 **Impact:** Enhanced decision-making through reliable and structured data insights.
+
+---
+
+## 🏢 Data Scientist — AIBOOST for Industries
+
+📍 Casablanca, Morocco | 📅 2024 – 2025
+
+🔍 Designed and implemented **machine learning, NLP, and data engineering solutions** for real-world business problems.
+
+### Key Contributions:
+
+* Built **machine learning models** (e.g., employee turnover prediction) including preprocessing, feature engineering, and evaluation
+* Developed **NLP pipelines** for call transcript analysis and automated insight extraction
+* Implemented **LLM-based chatbot** using LangChain for intelligent interaction and response generation
+* Designed **web scraping pipelines (Selenium)** to collect large-scale datasets for analysis
+* Created **interactive data visualizations and dashboards** for business monitoring
+* Automated **data processing and reporting workflows**, generating structured outputs (PDF, reports)
+
+### Tools & Technologies:
+
+Python, Pandas, Scikit-learn, Selenium, Plotly, Matplotlib, LangChain, NLP
+
+💡 **Impact:** Delivered end-to-end data science solutions, enabling automation, predictive insights, and improved decision-making.
+
+
+# 🚀 Projects
+
+## 🧠 EvalLLMInsight — Data Warehouse for LLM Evaluation
+
+📌 **Stack:** SQL Server, SSIS, SSAS, Power BI
+
+🔍 Designed and implemented a complete **data warehouse architecture** dedicated to evaluating Large Language Models (LLMs).
+
+### Key Contributions:
+
+* Built **ETL pipelines (SSIS)** to ingest and transform evaluation data
+* Modeled **analytical cubes (SSAS)** for multidimensional analysis
+* Defined **evaluation KPIs** for comparing LLM performance
+* Developed **interactive dashboards (Power BI)** for insights visualization
+
+💡 **Impact:** Structured and centralized evaluation data, enabling scalable and consistent LLM benchmarking.
+
+## 🤖 AI Chatbot with Generative AI
+
+📌 **Stack:** Python, Streamlit, LangChain
+
+🔍 Developed an intelligent chatbot leveraging **LLMs and prompt engineering**.
+
+### Key Contributions:
+
+* Integrated **LangChain** for context-aware interactions
+* Designed dynamic **prompt pipelines**
+* Built an intuitive **Streamlit interface**
+* Handled conversation memory and response structuring
+
+💡 **Impact:** Delivered an interactive AI assistant capable of generating contextual and relevant responses.
+
+## 📉 Employee Turnover Prediction
+
+📌 **Stack:** Python, Pandas, Scikit-learn
+
+🔍 Built a machine learning model to predict employee attrition.
+
+### Key Contributions:
+
+* Performed **data cleaning & feature engineering**
+* Tested multiple classification models
+* Evaluated performance using **F1-score, precision, recall**
+* Identified key drivers of employee turnover
+
+💡 **Impact:** Enabled data-driven HR decision-making and risk anticipation.
+
+## 🧾 Resume Screening (NLP)
+
+📌 **Stack:** Python, NLP, Scikit-learn
+
+🔍 Developed an NLP system to match CVs with job descriptions.
+
+### Key Contributions:
+
+* Implemented **TF-IDF vectorization**
+* Used **classification models** for candidate selection
+* Integrated text preprocessing (tokenization, cleaning)
+* Explored transformer-based embeddings
+
+💡 **Impact:** Automated candidate screening and reduced manual filtering effort.
+
+## 🌱 ESG Anomaly Detection
+
+📌 **Stack:** Python, Pandas, Scikit-learn
+
+🔍 Built an unsupervised learning system to detect anomalies in ESG datasets.
+
+### Key Contributions:
+
+* Applied **clustering & anomaly detection algorithms**
+* Identified outliers in structured ESG data
+* Performed exploratory data analysis
+
+💡 **Impact:** Improved detection of inconsistencies in sustainability data.
+
+## 🛡️ NetGuard — DDoS Attack Detection
+
+📌 **Stack:** Python, Scikit-learn
+
+🔍 Developed a system for detecting malicious network traffic.
+
+### Key Contributions:
+
+* Built classification models for traffic analysis
+* Performed feature extraction on network data
+* Evaluated detection performance
+
+💡 **Impact:** Contributed to cybersecurity by identifying abnormal traffic patterns.
+
+## 🌐 Web Scraping Automation System
+
+📌 **Stack:** Python, Selenium
+
+🔍 Designed automated pipelines for extracting data from dynamic websites.
+
+### Key Contributions:
+
+* Handled **dynamic content (scrolling, loading)**
+* Extracted structured datasets at scale
+* Optimized scraping performance
+* Built reusable scraping scripts
+
+💡 **Impact:** Eliminated manual data collection and enabled large-scale data acquisition.
+
+## 📡 Telecom Offers Scraper (Ongoing)
+
+📌 **Stack:** Python, Selenium
+
+🔍 Scraping telecom offers (mobile plans, pricing, features).
+
+### Key Contributions:
+
+* Extracting structured attributes:
+
+  * Price
+  * Data volume
+  * Commitment duration
+* Preparing dataset for comparative analysis
+
+💡 **Impact:** Building a dataset for market analysis and benchmarking.
+
+---
+
+## 📊 BI Dashboards & Reporting Solutions
+
+📌 **Stack:** Power BI, SQL Server
+
+🔍 Designed multiple dashboards for business monitoring.
+
+### Key Contributions:
+
+* Created **KPIs and performance indicators**
+* Built **interactive visualizations**
+* Enabled data storytelling for decision-makers
+
+💡 **Impact:** Improved visibility on business performance.
+
+## 🔄 Data Pipeline (NiFi + Airflow + SSIS)
+
+📌 **Stack:** Apache NiFi, Airflow, SSIS
+
+🔍 Built an end-to-end ETL pipeline integrating multiple data sources.
+
+### Key Contributions:
+
+* Merged data from:
+
+  * Excel
+  * CSV
+  * SQL Server
+* Orchestrated workflows using **Airflow**
+* Designed scalable data flows
+
+💡 **Impact:** Automated data integration and improved pipeline reliability.
+
+## 📦 Database Export Web Application
+
+📌 **Stack:** Java JEE, JSP, Servlets, MySQL
+
+🔍 Developed a web application for exporting databases into multiple formats.
+
+### Key Contributions:
+
+* Export formats:
+
+  * JSON
+  * XML
+  * CSV
+  * PDF
+  * Excel
+* Integrated libraries:
+
+  * iText
+  * Jackson
+  * Apache POI
+
+💡 **Impact:** Simplified data portability across systems.
+
+## 🛒 Hanoutna — Retail Management System
+
+📌 **Focus:** Business Logic & Data Management
+
+🔍 Developed a retail system with customer and stock management features.
+
+### Key Contributions:
+
+* Implemented **customer loyalty system (discounts)**
+* Built **stock alert system for suppliers**
+* Designed business workflows
+
+💡 **Impact:** Improved operational efficiency for small retail environments.
+
+## 📚 Smart Study Notes Generator (In Progress)
+
+📌 **Stack:** Python, NLP
+
+🔍 Building an AI system to transform raw notes into structured learning content.
+
+### Key Features:
+
+* Automatic **summarization**
+* Extraction of **key concepts**
+* Generation of **quiz questions**
+
+💡 **Impact:** Enhances learning efficiency and revision quality.
 
 # 💻 Tech Stack:
 ## 🚀 Langages de Programmation
